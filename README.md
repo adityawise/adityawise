@@ -1,5 +1,4 @@
-👋 Hi, I’m Aditya Shrivastava from Marketing > Organic Growth > SEO Content Team (Based in TLN).
-
+👋 Hi, I’m Aditya.
 
 <!---
 adityawise/adityawise is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
